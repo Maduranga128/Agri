@@ -1,0 +1,6 @@
+{
+  "name": "Agri-Entrepreneurship Quiz",
+  "description": "An interactive, futuristic 50-question quiz on Grade 9 Practical and Technical Skills (Agricultural Entrepreneurship) that can be generated directly as a Google Form in your Google Drive.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
